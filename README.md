@@ -18,11 +18,10 @@ PREREQUISITES
 
 ### Architecture
 
-Implemented elements and effects:
+![architecture](https://github.com/SHAANRAASTI/AI-Journalist/blob/master/Architecture.jpeg)
 
-* Google Sign-In
-
-![login_screen-Google](https://github.com/SHAANRAASTI/Daffy/blob/master/Screenshots/google.gif)
+### MCP
+![architecturemcp](https://github.com/SHAANRAASTI/AI-Journalist/blob/master/MCP.jpeg)
 
 ---
 QUICK START
