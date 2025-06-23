@@ -15,6 +15,15 @@ PREREQUISITES
 - Bright Data account (https://brightdata.com)
 - ElevenLabs account (https://elevenlabs.io)
 
+
+### Architecture
+
+Implemented elements and effects:
+
+* Google Sign-In
+
+![login_screen-Google](https://github.com/SHAANRAASTI/Daffy/blob/master/Screenshots/google.gif)
+
 ---
 QUICK START
 
